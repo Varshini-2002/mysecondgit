@@ -8,4 +8,5 @@ int main()
 	int d=b-a;
 	int c=a*b;
 	printf("%d",c);
+	printf("%d %d",e,d);
 }
